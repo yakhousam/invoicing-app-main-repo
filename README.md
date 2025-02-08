@@ -8,7 +8,7 @@ This repository serves as the main documentation and overview for the Invoicing 
 
 Watch the demo video to see how the Invoicing App works:
 
-[Watch Demo Video](videos/invoicing-app.mp4)
+[![Watch the video](https://img.youtube.com/vi/FyKexgTqMek/maxresdefault.jpg)](https://youtu.be/FyKexgTqMek)
 
 ## Repositories
 
