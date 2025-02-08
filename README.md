@@ -4,6 +4,15 @@ This repository serves as the main documentation and overview for the Invoicing 
 
 ![Invoicing App Diagram](images/invoicing-app.png)
 
+## Demo Video
+
+Watch the demo video to see how the Invoicing App works:
+
+<video controls>
+    <source src="videos/invoicing-app.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
 ## Repositories
 
 1. **Frontend Invoicing App**
